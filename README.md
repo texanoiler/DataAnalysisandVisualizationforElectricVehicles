@@ -48,9 +48,20 @@ This project analyzes the Washington State Electric Vehicle Population dataset t
 ## 6. How to Run the Project
 Follow these steps to run the analysis on your local machine:
 
-1. **Clone the repository**
+1. **Clone the Repository**
    ```bash
    git clone https://github.com/texanoiler/DataAnalysisandVisualizationforElectricVehicles.git
-   cd 
+   cd DataAnalysisandVisualizationforElectricVehicles
 
-2. 
+2. **Install Required Python packages**
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Download Dataset and GeoJSON**
+   Access the Washington State Electric Vehicle Population dataset and the Washington counties GeoJSON file using the links above.
+
+4. **Launch Jupyter Notebook**
+   ```bash
+   jupyter notebook ev_population_analysis.ipynb
+5. **Run cells in order**
+   Follow and Run the notebook from top to bottom to produce the analysis, visualizations, and findings.
