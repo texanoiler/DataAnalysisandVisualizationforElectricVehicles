@@ -8,6 +8,7 @@ This project analyzes the Washington State Electric Vehicle Population dataset t
 ## 2. Dataset
 - **Source:** Washington State Department of Licensing - Electric Vehicle Population Data
 - **Link:** *https://catalog.data.gov/dataset/electric-vehicle-population-data*
+- **Link to Download GeoJSON:** *https://geo.wa.gov/datasets/12712f465fc44fb58328c6e0255ca27e_11/explore?location=47.200759%2C-120.817600%2C7.08*
 - **Key Features:**
   - Vehicle make, model, and model year
   - Electric range
@@ -49,4 +50,7 @@ Follow these steps to run the analysis on your local machine:
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/texanoiler/DataAnalysisandVisualizationforElectricVehicles.git
+   cd 
+
+2. 
